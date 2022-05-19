@@ -11,9 +11,9 @@ all you need to do is type voltra -C `<Language>`
 ----
 
 Todo:
+- [x] Start Development
 - [] Add More languages (Currently planning to add C, C#, C++, Java, and Assembly)
 - [] Create more improvments
 - [] Clean up messy code
-- [x] Get into alpha
-- [] Get out of beta
+- [] Road to beta
 - [] Provide a Easy installer for windows and linux (MacOS Not coming any time soon XD)
