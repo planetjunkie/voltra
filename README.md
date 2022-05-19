@@ -9,6 +9,9 @@ all you need to do is type voltra -C `<Language>`
 [Supported Languages]:
 
 ----
+How to Compile:
+
+----
 
 Todo:
 - [x] Start Development
