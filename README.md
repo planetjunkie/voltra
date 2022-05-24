@@ -18,6 +18,17 @@ all you need to do is type voltra -C
 
 https://user-images.githubusercontent.com/79197022/170051737-5c353266-8f0f-42a9-85fd-c759e819974d.mp4
 
+---
+
+### How to install!
+
+1. You will need to have python installed always do that please!
+2. go to your commandline and (be sure to have git installed too), and type `git clone https://github.com/planetjunkie/voltra.git`
+3. once ya finish just type `cd [repolocation]`
+4. after that type `cd voltra`
+5. finally type `python3 main.py -h` or `python3 main.py --help` and you need to specify which command you want to run before you so don't type like this `python3 main.py` type like this `python3 main.py -C`
+
+thats it folks!!!
 
 ---
 
