@@ -1,4 +1,4 @@
-# voltra
+# Voltra
 
 ## What is voltra?
 
@@ -19,4 +19,5 @@ Todo:
 - [ ] Create more improvments
 - [ ] Clean up messy code
 - [ ] Road to beta
+- [ ] Add Windows Support
 - [ ] Provide a Easy installer for windows and linux (MacOS Not coming any time soon XD)
