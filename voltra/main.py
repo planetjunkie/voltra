@@ -16,7 +16,7 @@ def main():
 
 def create_file():
     print("Create a new project structure.")
-    language = input("What Language would you like to use? (Supported: Python, C) > ")
+    language = input("What Language would you like to use? (Supported: Python, C/C++) > ")
     proname = input("What is the name of your project? (e.g. MyProject) > ")
     saveloc = input("Where would you like to create your project? (e.g. /home/user/Desktop/MyProject) > ")
     ## The loading is intentional to show the user that the program is working.
