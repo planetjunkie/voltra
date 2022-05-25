@@ -9,7 +9,9 @@ Voltrea is a Python based tool kit that helps speed up creating template example
 all you need to do is type voltra -C 
 
 [Supported Languages]:
-- python
+- Python
+- C
+- C++
 
 
 ---
