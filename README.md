@@ -36,7 +36,7 @@ thats it folks!!!
 
 Todo:
 - [x] Start Development
-- [ ] Add More languages (Currently planning to add C, C#, C++, Java, and Assembly)
+- [ ] (in-progress) Add More languages (Currently planning to add C, C#, C++, Java, and Assembly)
 - [ ] Create more improvments
 - [ ] Clean up messy code
 - [ ] Road to beta
