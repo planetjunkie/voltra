@@ -6,7 +6,7 @@ import time
 
 def main():
     parser = argparse.ArgumentParser(description='Voltra: A tool made to help you create a new project structure.')
-    parser.add_argument('-v', '--version', action='version', version='%(prog)s 0.4 Public RC')
+    parser.add_argument('-v', '--version', action='version', version='Voltra 0.5 Public RC')
     parser.add_argument("-C", "--create", help="Create a new project structure.", action="store_true")
     args = parser.parse_args()
 
